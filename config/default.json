@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://rostyk10:rostyk10@cluster0-kn6rw.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://rostyk10:rostyk10@cluster0-kn6rw.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
