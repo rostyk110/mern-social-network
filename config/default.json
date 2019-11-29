@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://rostyk10:rostyk10@cluster0-kn6rw.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "4ca9c3f682175b51ce13",
+  "githubSecret": "1574ef1aa593eb56dd7799b8ec42c2c388db3107"
+}
